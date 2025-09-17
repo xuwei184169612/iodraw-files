@@ -59,7 +59,7 @@
         <mxCell id="SYWmPCP72tdxLwGeOD4v-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.3333333333333333;exitPerimeter=0;entryX=1;entryY=0.5;dashed=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="SYWmPCP72tdxLwGeOD4v-18" target="SYWmPCP72tdxLwGeOD4v-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-17" value="按开始&lt;br&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="SYWmPCP72tdxLwGeOD4v-16" vertex="1" connectable="0">
+        <mxCell id="SYWmPCP72tdxLwGeOD4v-17" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; text-wrap-mode: wrap; font-size: 11px;&quot;&gt;Press Start&lt;/span&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="SYWmPCP72tdxLwGeOD4v-16" vertex="1" connectable="0">
           <mxGeometry x="0.2473" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
