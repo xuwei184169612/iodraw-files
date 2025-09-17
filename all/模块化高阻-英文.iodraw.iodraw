@@ -115,7 +115,7 @@
             <mxPoint x="550" y="961" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-29" value="加压稳定时间&#xa;" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;verticalAlign=middle;align=center;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="SYWmPCP72tdxLwGeOD4v-29" value="Voltage Stabilization Time" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;verticalAlign=middle;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="550" y="961" width="160" height="18" as="geometry" />
         </mxCell>
         <mxCell id="SYWmPCP72tdxLwGeOD4v-30" value="" style="group" parent="1" vertex="1" connectable="0">
