@@ -35,7 +35,7 @@
         <mxCell id="SYWmPCP72tdxLwGeOD4v-9" value="工况信息" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;verticalAlign=middle;align=center;fontStyle=1" parent="SYWmPCP72tdxLwGeOD4v-8" vertex="1">
           <mxGeometry y="18" width="160" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-10" value="测试总时间" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;verticalAlign=middle;align=center;fontStyle=1" parent="SYWmPCP72tdxLwGeOD4v-8" vertex="1">
+        <mxCell id="SYWmPCP72tdxLwGeOD4v-10" value="Total Test Time" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;verticalAlign=middle;align=center;fontStyle=1" parent="SYWmPCP72tdxLwGeOD4v-8" vertex="1">
           <mxGeometry width="690" height="18" as="geometry" />
         </mxCell>
         <mxCell id="SYWmPCP72tdxLwGeOD4v-11" value="间隔时间&#xa;" style="text;strokeColor=#000000;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;verticalAlign=middle;align=center;fontStyle=1" parent="SYWmPCP72tdxLwGeOD4v-8" vertex="1">
