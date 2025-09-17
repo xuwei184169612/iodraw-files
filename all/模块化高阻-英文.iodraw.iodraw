@@ -239,7 +239,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-59" value="＞间隔时间" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="SYWmPCP72tdxLwGeOD4v-58" vertex="1" connectable="0">
+        <mxCell id="SYWmPCP72tdxLwGeOD4v-59" value="＞&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;IntervalTime&lt;/span&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="SYWmPCP72tdxLwGeOD4v-58" vertex="1" connectable="0">
           <mxGeometry x="-0.4908" y="5" relative="1" as="geometry">
             <mxPoint x="-92" y="-13" as="offset" />
           </mxGeometry>
@@ -319,7 +319,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-78" value="＞间隔时间" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="SYWmPCP72tdxLwGeOD4v-77" vertex="1" connectable="0">
+        <mxCell id="SYWmPCP72tdxLwGeOD4v-78" value="＞&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;IntervalTime&lt;/span&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="SYWmPCP72tdxLwGeOD4v-77" vertex="1" connectable="0">
           <mxGeometry x="-0.4908" y="5" relative="1" as="geometry">
             <mxPoint x="-92" y="-13" as="offset" />
           </mxGeometry>
