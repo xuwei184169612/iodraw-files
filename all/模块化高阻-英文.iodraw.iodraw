@@ -356,7 +356,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SYWmPCP72tdxLwGeOD4v-86" value="＞测试总时间" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="SYWmPCP72tdxLwGeOD4v-71" vertex="1" connectable="0">
-          <mxGeometry x="279.0000000000001" y="80" as="geometry" />
+          <mxGeometry x="279.0000000000001" y="80" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SYWmPCP72tdxLwGeOD4v-87" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.454;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
