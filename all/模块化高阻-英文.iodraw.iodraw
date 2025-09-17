@@ -183,7 +183,7 @@
             <mxPoint x="-23" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-45" value="&amp;gt;测试总时间" style="html=1;whiteSpace=wrap;rounded=1;fillColor=#ffffff;gradientColor=none;" parent="SYWmPCP72tdxLwGeOD4v-33" vertex="1">
+        <mxCell id="SYWmPCP72tdxLwGeOD4v-45" value="&amp;gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Total Test Time&lt;/span&gt;" style="html=1;whiteSpace=wrap;rounded=1;fillColor=#ffffff;gradientColor=none;" parent="SYWmPCP72tdxLwGeOD4v-33" vertex="1">
           <mxGeometry y="13" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYWmPCP72tdxLwGeOD4v-46" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;labelPosition=right;labelBackgroundColor=#ffffff;align=left;outlineConnect=0;" parent="SYWmPCP72tdxLwGeOD4v-45" vertex="1">
