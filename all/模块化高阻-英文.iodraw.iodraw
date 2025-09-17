@@ -127,11 +127,6 @@
             <mxPoint x="45" y="153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-32" value="大于测试总时间" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=12;" parent="SYWmPCP72tdxLwGeOD4v-31" vertex="1" connectable="0">
-          <mxGeometry x="-0.1636" y="1" relative="1" as="geometry">
-            <mxPoint y="-31" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SYWmPCP72tdxLwGeOD4v-33" value="" style="group" parent="SYWmPCP72tdxLwGeOD4v-30" vertex="1" connectable="0">
           <mxGeometry width="636" height="90" as="geometry" />
         </mxCell>
