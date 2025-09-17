@@ -147,7 +147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-38" value="间隔加压时间&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="SYWmPCP72tdxLwGeOD4v-33" vertex="1">
+        <mxCell id="SYWmPCP72tdxLwGeOD4v-38" value="IntervalTime" style="rounded=1;whiteSpace=wrap;html=1;" parent="SYWmPCP72tdxLwGeOD4v-33" vertex="1">
           <mxGeometry x="446" y="18" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SYWmPCP72tdxLwGeOD4v-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="SYWmPCP72tdxLwGeOD4v-33" source="SYWmPCP72tdxLwGeOD4v-34" target="SYWmPCP72tdxLwGeOD4v-36" edge="1">
@@ -296,7 +296,7 @@
         <mxCell id="SYWmPCP72tdxLwGeOD4v-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="SYWmPCP72tdxLwGeOD4v-71" source="SYWmPCP72tdxLwGeOD4v-74" target="SYWmPCP72tdxLwGeOD4v-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SYWmPCP72tdxLwGeOD4v-74" value="加压时间&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="SYWmPCP72tdxLwGeOD4v-71" vertex="1">
+        <mxCell id="SYWmPCP72tdxLwGeOD4v-74" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;StabilityTime&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="SYWmPCP72tdxLwGeOD4v-71" vertex="1">
           <mxGeometry x="287" y="18" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SYWmPCP72tdxLwGeOD4v-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="SYWmPCP72tdxLwGeOD4v-71" source="SYWmPCP72tdxLwGeOD4v-76" target="SYWmPCP72tdxLwGeOD4v-72" edge="1">
